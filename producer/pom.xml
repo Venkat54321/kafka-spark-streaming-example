@@ -12,7 +12,7 @@
     <artifactId>kafka-producer</artifactId>
 
     <properties>
-        <kafka.version>0.10.1.0</kafka.version>
+        <kafka.version>0.10.2.2</kafka.version>
     </properties>
 
     <dependencies>
